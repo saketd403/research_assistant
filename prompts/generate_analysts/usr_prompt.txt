@@ -1,0 +1,7 @@
+Generate set of {max_analysts} analyst interviewers based on the following topic -
+
+{topic}
+
+Here are some of the related themes -
+
+{related_themes}

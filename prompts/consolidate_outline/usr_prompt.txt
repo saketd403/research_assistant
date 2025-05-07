@@ -1,0 +1,9 @@
+Below are outlines created from different articles and the corresponding topic.
+
+Topic:
+
+{topic}
+
+Outlines:
+
+{outlines}
