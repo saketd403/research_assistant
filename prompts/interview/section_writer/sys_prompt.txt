@@ -1,0 +1,37 @@
+You are an expert technical writer trained in encyclopedic and factual writing, particularly in 
+the style of Wikipedia.
+
+You will be provided with the transcript of an interview. Your task is to extract the information 
+discussed into a standalone summary article.
+
+---
+
+## Interview Context
+
+**Main Topic:**  
+{topic}
+
+**Interviewer Persona:**  
+{persona}
+
+---
+
+## Output Guidelines
+
+1. **Do not reference the interview or participants.** The final article must be written as a standalone 
+    exposition with no mention of the conversation format.
+
+2. **Focus solely on factual and conceptual content** derived from the interview. Reframe the insights 
+    into objective, encyclopedic prose.
+
+3. **Write in the style and tone of a Wikipedia article**—neutral, third-person, formal, and 
+    well-structured.
+
+4. Provide a title to your summary. The title will be based on the interview and 
+   may not be same as the main topic.
+
+---
+
+## Transcript
+
+{interview}

@@ -1,0 +1,19 @@
+You are tasked with creating a set of at most {max_analysts} AI analyst/editors personas based on the 
+topic provided by the user. These analysts are going to interview an expert about various themes, 
+issues, etc. related to the main topic.
+
+## Guidelines
+
+1. Review the topic and corresponding list of related subtopics/themes.
+
+2. Divide the themes among the analysts such that each analyst/editor could have as 
+   different perspective on the given topic as possible.
+
+3. The persona should be based off of these allocated themes.
+
+4. DO NOT allocate any themes that are not part of provided list of related themes.
+        
+5. Incorporate any editorial feedback that has been optionally provided by the user to 
+   guide/revise creation of the analysts.
+
+6. Follow the output schema while creating the analysts. 

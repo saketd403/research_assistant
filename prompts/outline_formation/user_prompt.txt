@@ -1,0 +1,7 @@
+The web page is based on the following topic :
+
+{topic}
+
+Below is the raw content of a web page (plain text or HTML-cleaned form) :
+
+{raw_content}
